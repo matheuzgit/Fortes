@@ -49,6 +49,7 @@ object FrpAbastecimento: TFrpAbastecimento
       Top = 148
       Width = 718
       Height = 149
+      DataFields = 'ID_TANQUE'
       object RLBand2: TRLBand
         Left = 0
         Top = 0
