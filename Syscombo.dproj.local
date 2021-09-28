@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/27 17:28:28.000.030,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/27 17:29:33.000.768,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/27 17:30:29.000.003,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Uprojet.pas</Transaction>
+    <Transaction>2021/09/27 17:30:29.000.003,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Uprojet.dfm</Transaction>
+    <Transaction>2021/09/27 17:30:51.000.241,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Syscombo.dproj</Transaction>
+    <Transaction>2021/09/27 17:31:14.000.711,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Uprojet.pas=</Transaction>
+    <Transaction>2021/09/27 17:31:23.000.341,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrPrincipal.pas</Transaction>
+    <Transaction>2021/09/27 17:31:53.000.209,=C:\Users\matheus\Documents\projetos\PostoAbc\UDados.pas</Transaction>
+    <Transaction>2021/09/27 17:33:06.000.074,=C:\Users\matheus\Documents\projetos\PostoAbc\ufrAbastercerTanque.pas</Transaction>
+    <Transaction>2021/09/27 17:33:31.000.141,=C:\Users\matheus\Documents\projetos\PostoAbc\ufrBombas.pas</Transaction>
+    <Transaction>2021/09/27 17:33:56.000.999,=C:\Users\matheus\Documents\projetos\PostoAbc\UfrCadastroBombas.pas</Transaction>
+    <Transaction>2021/09/27 17:34:21.000.050,=C:\Users\matheus\Documents\projetos\PostoAbc\ufrCadastroTanque.pas</Transaction>
+    <Transaction>2021/09/27 17:36:30.000.729,=C:\Users\matheus\Documents\projetos\PostoAbc\UfrMenu.pas</Transaction>
+    <Transaction>2021/09/27 17:37:54.000.543,=C:\Users\matheus\Documents\projetos\PostoAbc\UfrpRelatorioAbastecimento.pas</Transaction>
+    <Transaction>2021/09/27 17:43:07.000.035,C:\Users\matheus\Documents\projetos\PostoAbc\UfrpRelatorioAbastecimento.pas=</Transaction>
+    <Transaction>2021/09/27 17:43:27.000.342,=C:\Users\matheus\Documents\projetos\PostoAbc\UfrpRelatorioAbastecimento.pas</Transaction>
+    <Transaction>2021/09/27 17:44:14.000.927,=C:\Users\matheus\Documents\projetos\PostoAbc\UnFunc.pas</Transaction>
+    <Transaction>2021/09/27 17:44:36.000.313,=C:\Users\matheus\Documents\projetos\PostoAbc\URelAbastecimento.pas</Transaction>
+    <Transaction>2021/09/27 17:46:20.000.908,=C:\Users\matheus\Documents\projetos\PostoAbc\UfrConsultaTanque.pas</Transaction>
+    <Transaction>2021/09/27 18:49:30.000.237,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Unit2.pas</Transaction>
+    <Transaction>2021/09/27 18:51:03.000.121,C:\Users\matheus\Documents\projetos\PostoAbc\UDados.pas=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UDados.pas</Transaction>
+    <Transaction>2021/09/27 18:51:03.000.121,C:\Users\matheus\Documents\projetos\PostoAbc\UDados.dfm=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UDados.dfm</Transaction>
+    <Transaction>2021/09/27 18:51:42.000.935,C:\Users\matheus\Documents\projetos\PostoAbc\UfrCadastroBombas.pas=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrCadastroBombas.pas</Transaction>
+    <Transaction>2021/09/27 18:51:42.000.935,C:\Users\matheus\Documents\projetos\PostoAbc\UfrCadastroBombas.dfm=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrCadastroBombas.dfm</Transaction>
+    <Transaction>2021/09/27 18:53:15.000.601,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Unit2.pas=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Ufrchamarel.pas</Transaction>
+    <Transaction>2021/09/27 18:53:15.000.601,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Unit2.dfm=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Ufrchamarel.dfm</Transaction>
+    <Transaction>2021/09/27 18:57:59.000.945,C:\Users\matheus\Documents\projetos\PostoAbc\ufrAbastercerTanque.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:11.000.496,C:\Users\matheus\Documents\projetos\PostoAbc\ufrBombas.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:16.000.331,C:\Users\matheus\Documents\projetos\PostoAbc\ufrCadastroTanque.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:20.000.111,C:\Users\matheus\Documents\projetos\PostoAbc\UfrConsultaTanque.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:23.000.598,C:\Users\matheus\Documents\projetos\PostoAbc\UfrMenu.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:28.000.886,C:\Users\matheus\Documents\projetos\PostoAbc\UfrpRelatorioAbastecimento.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:32.000.707,C:\Users\matheus\Documents\projetos\PostoAbc\UnFunc.pas=</Transaction>
+    <Transaction>2021/09/27 18:58:35.000.945,C:\Users\matheus\Documents\projetos\PostoAbc\URelAbastecimento.pas=</Transaction>
+    <Transaction>2021/09/27 18:59:12.000.784,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\ufrBombas.pas</Transaction>
+    <Transaction>2021/09/27 18:59:12.000.860,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\ufrCadastroTanque.pas</Transaction>
+    <Transaction>2021/09/27 18:59:12.000.543,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\ufrAbastercerTanque.pas</Transaction>
+    <Transaction>2021/09/27 18:59:13.000.232,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UnFunc.pas</Transaction>
+    <Transaction>2021/09/27 18:59:13.000.170,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrpRelatorioAbastecimento.pas</Transaction>
+    <Transaction>2021/09/27 18:59:13.000.023,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrConsultaTanque.pas</Transaction>
+    <Transaction>2021/09/27 18:59:13.000.092,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrMenu.pas</Transaction>
+    <Transaction>2021/09/27 19:13:01.000.794,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\URelAbastecimento.pas</Transaction>
+    <Transaction>2021/09/27 19:19:11.000.112,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UfrpRelatorioAbastecimento.pas=</Transaction>
+    <Transaction>2021/09/28 00:16:53.000.559,=C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\Unit3.pas</Transaction>
+    <Transaction>2021/09/28 06:49:27.000.968,C:\Users\matheus\Documents\Embarcadero\Studio\Projects\Frm\UnFunc.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UfrPrincipal.pas"/>
+    <File Path="UfrPrincipal.dfm"/>
+    <File Path="UDados.pas"/>
+    <File Path="UDados.dfm"/>
+    <File Path="UfrCadastroBombas.pas"/>
+    <File Path="UfrCadastroBombas.dfm"/>
+    <File Path="Ufrchamarel.pas"/>
+    <File Path="Ufrchamarel.dfm"/>
+    <File Path="ufrAbastercerTanque.pas"/>
+    <File Path="ufrAbastercerTanque.dfm"/>
+    <File Path="ufrBombas.pas"/>
+    <File Path="ufrBombas.dfm"/>
+    <File Path="ufrCadastroTanque.pas"/>
+    <File Path="ufrCadastroTanque.dfm"/>
+    <File Path="UfrConsultaTanque.pas"/>
+    <File Path="UfrConsultaTanque.dfm"/>
+    <File Path="UfrMenu.pas"/>
+    <File Path="UfrMenu.dfm"/>
+    <File Path="URelAbastecimento.pas"/>
+    <File Path="URelAbastecimento.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
